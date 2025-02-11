@@ -91,9 +91,9 @@ A Cloud-Driven Business App can leverage various cloud services to optimize perf
 ### 4. Cloud-Driven Workflow Execution
 
 - Depending on the business needs, workflows can be managed in different ways:
-- Direct Execution → The app receives an instruction and executes it immediately.
-- BPM Integration → The app interacts with a BPM system that dictates step-by-step execution.
-- Event-Triggered Execution → Actions are triggered based on external events, such as IoT device signals or user input.
+  - Direct Execution → The app receives an instruction and executes it immediately.
+  - BPM Integration → The app interacts with a BPM system that dictates step-by-step execution.
+  - Event-Triggered Execution → Actions are triggered based on external events, such as IoT device signals or user input.
 
 ```mermaid
 graph TD;
