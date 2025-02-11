@@ -141,3 +141,13 @@ To ensure security, the app and cloud must communicate using:
 
 **Cloud-Driven Business Apps** leverage the homogeneity of this type of application, making cloud-driven execution feasible and efficient. Unlike applications such as 3D games, which require complex real-time rendering and state management that are difficult to orchestrate from the cloud, business applications follow structured workflows that can be efficiently managed and executed remotely. This approach enables **flexibility, scalability, and cost reduction**, allowing companies to **optimize their processes without modifying app code**, thereby enhancing operational efficiency and digital transformation.
 
+# Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This document is licensed under the Creative Commons Attribution 4.0 International License.
+You are free to:
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+**You must give appropriate credit**, provide a link to the license, and indicate if changes were made.
+
+🔗 License details: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
